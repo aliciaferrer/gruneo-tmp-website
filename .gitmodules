@@ -1,3 +1,4 @@
-[submodule "themes/digitalcraftsman"]
-	path = themes/digitalcraftsman
-	url = https://github.com/digitalcraftsman/hugo-creative-theme
+[submodule "public"]
+	path = public
+	url = https://github.com/aliciaferrer/aliciaferrer.github.io.git
+	branch = master

@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "https://markthebault.github.io"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Gruneo a better life"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -20,8 +20,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Alicia"
+	description = "Gruno it's an awesome concept that will help you eat healthy"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -29,7 +29,8 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		img = "https://previews.123rf.com/images/nad1992/nad19921411/nad1992141100004/33235868-gr%C3%BCne-bio-icon-oder-symbol-auf-wei%C3%9Fem-background-vector-.jpg"
+		brand = "Gruneo"
 
 		[params.navigation.links]
 			about     = "About"
@@ -86,13 +87,13 @@ googleAnalytics = ""
         category = "Category"
         buttonText = "Close"
 
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+    # # Aside section
+	# [params.aside]
+	# 	headline = "Get the Creative Theme for Hugo"
 
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+	# 	[params.aside.button]
+	# 		text = "Download now"
+	# 		link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
