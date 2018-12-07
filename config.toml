@@ -1,4 +1,4 @@
-baseurl = "https://gruneo.de/"
+baseurl = "https://gruneo.com/"
 languageCode = "en-us"
 title = "Gruneo"
 theme = "hugo-creative-theme"
